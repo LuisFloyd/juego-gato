@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LuisFloyd/juego-gato/static/css/main.662e17a6.css",
-    "main.js": "/LuisFloyd/juego-gato/static/js/main.9178f130.js",
-    "static/js/787.07ce92c8.chunk.js": "/LuisFloyd/juego-gato/static/js/787.07ce92c8.chunk.js",
-    "index.html": "/LuisFloyd/juego-gato/index.html",
-    "main.662e17a6.css.map": "/LuisFloyd/juego-gato/static/css/main.662e17a6.css.map",
-    "main.9178f130.js.map": "/LuisFloyd/juego-gato/static/js/main.9178f130.js.map",
-    "787.07ce92c8.chunk.js.map": "/LuisFloyd/juego-gato/static/js/787.07ce92c8.chunk.js.map"
+    "main.css": "/juego-gato/static/css/main.662e17a6.css",
+    "main.js": "/juego-gato/static/js/main.66874fe7.js",
+    "static/js/787.07ce92c8.chunk.js": "/juego-gato/static/js/787.07ce92c8.chunk.js",
+    "index.html": "/juego-gato/index.html",
+    "main.662e17a6.css.map": "/juego-gato/static/css/main.662e17a6.css.map",
+    "main.66874fe7.js.map": "/juego-gato/static/js/main.66874fe7.js.map",
+    "787.07ce92c8.chunk.js.map": "/juego-gato/static/js/787.07ce92c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.662e17a6.css",
-    "static/js/main.9178f130.js"
+    "static/js/main.66874fe7.js"
   ]
 }
