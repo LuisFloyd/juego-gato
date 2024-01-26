@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LuisFloyd/juego-gato/static/css/main.662e17a6.css",
+    "main.js": "/LuisFloyd/juego-gato/static/js/main.9178f130.js",
+    "static/js/787.07ce92c8.chunk.js": "/LuisFloyd/juego-gato/static/js/787.07ce92c8.chunk.js",
+    "index.html": "/LuisFloyd/juego-gato/index.html",
+    "main.662e17a6.css.map": "/LuisFloyd/juego-gato/static/css/main.662e17a6.css.map",
+    "main.9178f130.js.map": "/LuisFloyd/juego-gato/static/js/main.9178f130.js.map",
+    "787.07ce92c8.chunk.js.map": "/LuisFloyd/juego-gato/static/js/787.07ce92c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.662e17a6.css",
+    "static/js/main.9178f130.js"
+  ]
+}
