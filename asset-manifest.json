@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/juego-gato/static/css/main.662e17a6.css",
-    "main.js": "/juego-gato/static/js/main.66874fe7.js",
+    "main.css": "/juego-gato/static/css/main.45184db0.css",
+    "main.js": "/juego-gato/static/js/main.712f580e.js",
     "static/js/787.07ce92c8.chunk.js": "/juego-gato/static/js/787.07ce92c8.chunk.js",
     "index.html": "/juego-gato/index.html",
-    "main.662e17a6.css.map": "/juego-gato/static/css/main.662e17a6.css.map",
-    "main.66874fe7.js.map": "/juego-gato/static/js/main.66874fe7.js.map",
+    "main.45184db0.css.map": "/juego-gato/static/css/main.45184db0.css.map",
+    "main.712f580e.js.map": "/juego-gato/static/js/main.712f580e.js.map",
     "787.07ce92c8.chunk.js.map": "/juego-gato/static/js/787.07ce92c8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.662e17a6.css",
-    "static/js/main.66874fe7.js"
+    "static/css/main.45184db0.css",
+    "static/js/main.712f580e.js"
   ]
 }
