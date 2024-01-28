@@ -30,7 +30,18 @@ function Tablero({ xIsNext, squares, onPlay }) {
   
     return (
       <>
-        <div className="status">{status}</div>
+        {/* <div className = "status" >{status}</div> */}
+        <div
+          className={ ` ${"status"}
+                        ${winner ? "statusWinner" : ''}
+                        ${!winner && empate ? "statusEmpate" : ''}
+                      `// ejemplo de classname concatenado o concatenación de estilos
+                    } 
+        >
+          {status}
+        </div>
+
+        
   
         <div className="board-row">
           <Square

@@ -43,6 +43,20 @@ header {
   margin-bottom: 1em;
   font-size: calc(.4em + 2vw);
 }
+.statusWinner{
+  color: yellow;
+  animation: flash;
+  animation-duration: 0.5s;
+  animation-iteration-count: 4;
+  font-size: calc(.6em + 2vw);
+}
+.statusEmpate{
+  color: blue;
+  animation: tada;
+  animation-duration: 0.5s;
+  animation-iteration-count: 2;
+  font-size: calc(.8em + 2vw);
+}
 
 .game {
   display: flex;
